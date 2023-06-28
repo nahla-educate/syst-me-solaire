@@ -1,0 +1,17 @@
+{
+  "name": "threejsprojet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite-plugin-string": "^1.1.2"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
